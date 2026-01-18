@@ -1,16 +1,21 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Главная</title>
+</head>
+<body>
+<h1>Добро пожаловать на наш сайт</h1>
+<p>Здесь вы найдете информацию о наших семенах и растениях.</p>
 
-<!--
-**fermer-Home/Fermer-Home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<nav>
+<a href="index.html">Главная</a> |
+<a href="about.html">О нас</a> |
+<a href="gallery.html">Галерея</a> |
+<a href="seeds.html">Семена</a> |
+<a href="tobacco.html">Табак</a> |
+<a href="plants.html">Растения</a> |
+<a href="contacts.html">Контакты</a>
+</nav>
+</body>
+</html>
